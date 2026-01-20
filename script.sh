@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir /root/test
+mkdir /tmp/ttest
